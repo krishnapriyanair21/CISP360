@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1551743496 source:c:\users\krish\desktop\documents\arc\cisp 360\unit 6\assignment part 1_  number table generator\number table generator\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<cmath>
+

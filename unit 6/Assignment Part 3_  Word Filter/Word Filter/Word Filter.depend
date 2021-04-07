@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1551761226 source:c:\users\krish\desktop\documents\arc\cisp 360\unit 6\assignment part 3_  word filter\word filter\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<cmath>
+	<string>
+

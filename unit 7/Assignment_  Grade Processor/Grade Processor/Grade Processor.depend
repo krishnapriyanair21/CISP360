@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1552348297 source:c:\users\krish\desktop\documents\arc\cisp 360\unit 7\assignment_  grade processor\grade processor\grader.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<iomanip>
+	<string>
+

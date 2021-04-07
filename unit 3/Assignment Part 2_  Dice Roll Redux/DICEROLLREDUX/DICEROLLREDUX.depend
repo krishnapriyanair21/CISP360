@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1549858221 source:c:\users\krish\desktop\documents\arc\cisp 360\unit 3\assignment part 2_  dice roll redux\dicerollredux\dicerollredux.cpp
+	<iostream>
+	<cstdlib>
+

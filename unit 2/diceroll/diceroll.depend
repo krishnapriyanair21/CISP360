@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1548968714 source:c:\users\krish\desktop\documents\arc\cisp 360\diceroll\diceroll.cpp
+	<iostream>
+	<cstdlib>
+

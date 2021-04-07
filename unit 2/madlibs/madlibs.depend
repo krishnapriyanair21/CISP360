@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1549248467 source:c:\users\krish\desktop\documents\arc\cisp 360\madlibs\madlibs.cpp
+	<iostream>
+	<string>
+

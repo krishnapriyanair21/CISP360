@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1550547022 source:c:\users\krish\desktop\documents\arc\cisp 360\unit 4\assignment part 3_  dice roller iii\dice roller 3\main.cpp
+	<iostream>
+	<random>
+

@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1557633329 source:c:\users\krish\desktop\documents\arc\cisp 360\unit 13\shopping cart\itemtopurchase.cpp
+	"ItemToPurchase.h"
+
+1557639635 source:c:\users\krish\desktop\documents\arc\cisp 360\unit 13\shopping cart\main.cpp
+	"ShoppingCart.h"
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<vector>
+
+1557634048 c:\users\krish\desktop\documents\arc\cisp 360\unit 13\shopping cart\itemtopurchase.h
+	<iostream>
+
+1557639673 source:c:\users\krish\desktop\documents\arc\cisp 360\unit 13\shopping cart\main1.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	"ItemToPurchase.h"
+
+1557639951 source:c:\users\krish\desktop\documents\arc\cisp 360\unit 13\shopping cart\shoppingcart.cpp
+	"ShoppingCart.h"
+
+1557634875 c:\users\krish\desktop\documents\arc\cisp 360\unit 13\shopping cart\shoppingcart.h
+	<iostream>
+	<vector>
+	"ItemToPurchase.h"
+

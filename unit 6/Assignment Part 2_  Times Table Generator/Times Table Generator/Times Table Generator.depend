@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1551723295 source:c:\users\krish\desktop\documents\arc\cisp 360\unit 6\assignment part 2_  times table generator\times table generator\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<cmath>
+	<string>
+

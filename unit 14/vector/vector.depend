@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1557962554 source:c:\users\krish\desktop\documents\arc\cisp 360\unit 14\vector\main.cpp
+	"Vector.h"
+
+1557963608 c:\users\krish\desktop\documents\arc\cisp 360\unit 14\vector\vector.h
+	<iostream>
+
+1557963608 source:c:\users\krish\desktop\documents\arc\cisp 360\unit 14\vector\vector.cpp
+	"Vector.h"
+

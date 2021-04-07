@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1555974323 source:c:\users\krish\desktop\documents\arc\cisp 360\unit 11\assignment_ caesar cipher\caesar cipher\main.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+

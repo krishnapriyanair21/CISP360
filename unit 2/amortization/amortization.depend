@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1549249450 source:c:\users\krish\desktop\documents\arc\cisp 360\amortization\amortization.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+

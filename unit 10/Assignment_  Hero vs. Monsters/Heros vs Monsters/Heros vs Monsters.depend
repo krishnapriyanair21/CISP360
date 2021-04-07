@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1554767490 source:c:\users\krish\desktop\documents\arc\cisp 360\unit 10\assignment_  hero vs. monsters\heros vs monsters\monsters.cpp
+	<iostream>
+	<string>
+	<vector>
+	<cstdlib>
+	<iomanip>
+
